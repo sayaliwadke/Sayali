@@ -2,15 +2,15 @@
  text-align:center;
 }
 
-.bg1{
+#bg1{
  background-color:red;
 }
 
-.bg2{
+#bg2{
  background-color:green;
 }
 
-.bg3{
+#bg3{
  background-color:blue;
 }
 
@@ -24,11 +24,9 @@ height:300px;
 box-sizing: border-box;
 }
 
-#boxContent{
- margin:10px;
-}
 
 #titleRegion{
+   margin:10;
    position: absolute;
    top: 0px;
    right: 0px;
