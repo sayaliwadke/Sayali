@@ -26,6 +26,7 @@ box-sizing: border-box;
 
 
 #titleRegion{
+  margin:30px;
    position: absolute;
    top: 0px;
    right: 0px;
