@@ -26,11 +26,11 @@ box-sizing: border-box;
 
 
 #titleRegion{
-  margin:30px;
    position: absolute;
    top: 0px;
    right: 0px;
    border: 1px solid black; 
+   margin:30px;
 }
 
 @media(min-width:992px){
