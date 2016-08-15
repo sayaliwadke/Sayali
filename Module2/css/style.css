@@ -16,7 +16,7 @@
 
  #box{
 position:relative;
-margin:10px;
+margin:40px;
 padding: 10px;
 border : 1px solid black;
 width:300px;
@@ -30,7 +30,6 @@ box-sizing: border-box;
    top: 0px;
    right: 0px;
    border: 1px solid black; 
-   margin:30px;
 }
 
 @media(min-width:992px){
