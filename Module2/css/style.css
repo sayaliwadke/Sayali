@@ -24,7 +24,7 @@ height:300px;
 box-sizing: border-box;
 }
 
-.titleRegion{
+#titleRegion{
    position: relative;
    top: 0px;
    right: 0px;
